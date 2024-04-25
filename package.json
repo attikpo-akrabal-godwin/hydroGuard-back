@@ -1,0 +1,17 @@
+{
+  "name": "hydroguard-back",
+  "version": "1.0.0",
+  "description": "projet de capture de param TDE",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
